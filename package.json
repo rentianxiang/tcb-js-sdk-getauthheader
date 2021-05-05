@@ -1,0 +1,14 @@
+{
+  "name": "@cloudbase/node-sdk-getauthheader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "keywords": [
+    "@cloudbase"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
